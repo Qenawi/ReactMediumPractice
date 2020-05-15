@@ -1,0 +1,17 @@
+{
+  "name": "ReactF",
+  "displayName": "ReactF",
+  "expo": {
+    "name": "ReactF",
+    "slug": "ReactF",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
