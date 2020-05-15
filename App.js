@@ -34,3 +34,5 @@ const styles = StyleSheet.create({
     marginBottom: 5,
   },
 });
+
+//https://medium.com/@mmazzarolo/the-starter-app-part-1-project-setup-9b1579a8efa9
